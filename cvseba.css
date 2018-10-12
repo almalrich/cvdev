@@ -1,0 +1,68 @@
+h1
+{
+    text-align: center!important;
+}
+img
+{
+    background-size: 300px!important;
+    width: 100px!important;
+    height: 100px!important;
+    margin-right: 100px!important;
+    position: relative!important;
+}
+
+body {
+    font-size: 15px !important;
+    font-family: "Arial Black" !important;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-shadow: 1px 1px black;
+
+}
+
+h1
+{
+    margin-left: 25%;
+    width: 50%;
+    font-size: 50px!important;
+    border:1px solid black!important;
+
+
+}
+
+#civilité
+{
+   position: relative;
+
+
+
+}
+#competence
+{
+    border:1px solid blueviolet;
+    margin-top:10%;
+    position: relative;
+    background-color: #9fcdff;
+}
+#logo
+{
+    margin-top:5%;
+}
+
+h2,h3,h4
+{
+    position: relative!important;
+    margin-left: 1%!important;
+    color: #856404!important;
+}
+
+#civilité
+{
+    background-color: #9fcdff;
+}
+
+#expro
+{
+    background-color: #20c997;
+}
+
