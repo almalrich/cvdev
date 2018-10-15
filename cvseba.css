@@ -14,8 +14,7 @@ img
 body {
     font-size: 15px !important;
     font-family: "Arial Black" !important;
-    margin-left: 10%;
-    margin-right: 10%;
+
     text-shadow: 1px 1px black;
 
 }
@@ -30,39 +29,16 @@ h1
 
 }
 
-#civilité
-{
-   position: relative;
-
-
-
-}
-#competence
-{
-    border:1px solid blueviolet;
-    margin-top:10%;
-    position: relative;
-    background-color: #9fcdff;
-}
-#logo
-{
-    margin-top:5%;
-}
-
-h2,h3,h4
-{
-    position: relative!important;
-    margin-left: 1%!important;
-    color: #856404!important;
-}
-
-#civilité
-{
-    background-color: #9fcdff;
-}
-
-#expro
+#competences
 {
     background-color: #20c997;
 }
 
+#exppro
+{
+    background-color: #c69500;
+}
+#formation
+{
+    background-color: red;
+}
