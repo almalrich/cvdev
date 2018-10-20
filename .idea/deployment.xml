@@ -5,7 +5,7 @@
       <paths name="https://seb-bastos16.000webhostapp.com">
         <serverdata>
           <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/CVSeb" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
